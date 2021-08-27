@@ -1,4 +1,4 @@
-# Change-Detection-of-Vegetation-Water-Resource-and-others-for-a-city
+# Change Detection of Vegetation, Water Resource and others for Aurangabad
 
   The data collected from Indian Space Research Organisation (ISRO) platforms have tremendous potential in mapping India’s resources, agriculture, climate and disaster management, rural and urban planning and in identifying pathways for future development. Such maps can be created using free open source platforms (such as QGIS).
   
